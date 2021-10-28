@@ -1,0 +1,270 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    width: 100%;
+    max-height: 146px;
+    background-image:url("/img/etoile.jpg");
+}
+
+#logo {
+    margin: 4%;
+}
+
+#menu {
+    display: inline-block;
+    width: 58%;
+    margin-left: 19rem;
+    font-size: 1.1rem;
+    position: relative;
+    bottom: 8rem;
+}
+
+#submenu {
+    width: 75%;
+    display: inline-block;
+    margin-left: 9rem;
+    padding: 0.8rem;
+    font-size: 0.9rem;
+    background-color: #555555;
+    position: relative;
+    bottom: 7rem;
+}
+
+a {
+    text-decoration-line: none;
+    color: white;
+}
+
+.border {
+    border-right: 1px solid gray;
+    padding: 0.8rem;
+}
+
+#search {
+    width: 14%;
+    display: inline-block;
+    padding: 1rem;
+    background-color: #555555;
+    position: relative;
+    bottom: 8rem;
+}
+
+p {
+    color: grey;
+}
+
+#none, #none1 {
+    border-right: none;
+}
+
+/*fontawesome*/
+i{
+    float: right;
+    color: white;
+}
+
+#share {
+    display: inline-block;
+    margin-right: 2rem;
+    position: relative;
+    bottom: 7rem;
+}
+
+#text {
+    color: white;
+    background-color: red;
+    padding: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.container {
+    width: 100%;
+}
+
+.container-2 {
+    display: inline-block;
+    width: 49%;
+}
+
+.resize {
+    width: 100%;
+    max-height: 500px;
+}
+
+#second {
+    float: right;
+}
+
+.div {
+  display: inline-block;
+  width:  49.6%;
+}
+
+#paragraph {
+    background-color: #39719e;
+    position: relative;
+    bottom: 0.8rem;
+}
+
+.text-color {
+    color: white;
+    margin-left: 1rem;
+    margin-bottom: 0.2rem;
+}
+
+hr {
+    margin-left: 1rem;
+    margin-right: 2rem;
+}
+
+#line, #line1 {
+    display: inline-block;
+}
+
+.container-3 {
+    display: inline-block;
+    width: 100%;
+}
+
+.container-4 {
+    display: inline-block;
+    width: 100%;
+}
+
+#sarah {
+    display: inline-block;
+    width: 25%;
+}
+
+#sara {
+    width: 97%;
+    background-color: #FFFFFFCC;
+    color: black;
+    font-weight: bold;
+    padding: 18px 0;
+    font-size: 1.2rem;
+}
+
+#ozone {
+    display: inline-block;
+    width: 49%;
+}
+
+#ozone-blue {
+    background-color: #5D7FB9;
+    color: white;
+    width: 10%;
+    padding: 0.7rem;
+}
+
+#antarctique, #gamma {
+    width: 98%;
+    background-color: #FFFFFFCC;
+    color: black;
+    padding: 2px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#wallpaper {
+    display: inline-block;
+    width: 25%;
+}
+
+#image {
+    background-color: #5D7FB9;
+    color: white;
+    width: 41%;
+    padding: 0.7rem;
+}
+
+.container5 {
+    width: 100%;
+}
+
+#web {
+    display: inline-block;
+    width: 25%;
+}
+
+#woman {
+    display: inline-block;
+    width: 25%;
+}
+
+#comete {
+    display: inline-block;
+    width: 25%;
+}
+
+#building {
+    display: inline-block;
+    width: 24%;
+}
+
+.dim1 {
+    width: 20.3rem;
+}
+
+.dim {
+    width: 20%;
+}
+
+.note {
+    width: 97%;
+    background-color: #FFFFFFCC;
+    color: black;
+    font-weight: bold;
+    padding: 5px 0;
+    font-size: 1.2rem;
+}
+
+#note1 {
+    width: 103%;
+}
+
+#blue {
+    background-color: #15418c;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#police {
+    color: #ffffff;
+}
+
+#left {
+    display: inline-block;
+    width: 29%;
+    margin: 2rem;
+}
+
+#textl {
+    display: inline-block;
+    font-size: 0.9rem;
+    color: white;
+    margin-left: 7rem;
+    width: 19rem;
+}
+
+#right {
+    display: inline-block;
+    width: 65%;
+    font-size: 0.9rem;
+}
+
+
+.bot {
+    color: #5D7FB9;
+    padding: 0.8rem;
+}
